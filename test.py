@@ -1,2 +1,1 @@
 print("sanjeev")
-print("hellosanjeev")
